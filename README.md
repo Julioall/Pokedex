@@ -18,13 +18,10 @@ A Pokédex exibe informações dos Pokémon em tempo real, puxando dados da Poke
 - Buscar Pokémon por nome ou número
 - Navegar entre Pokémon anterior e próximo
 - Exibir imagem, nome e número do Pokémon
-- Layout responsivo
 
 ## 📸 Prévia do Projeto
 
 Acesse o projeto online: [https://julioall.github.io/Pokedex/](https://julioall.github.io/Pokedex/)
-
-![Pokedex Preview](https://user-images.githubusercontent.com/0000000/preview-image.png) <!-- Substitua pela URL de uma imagem, se quiser -->
 
 ## 👩‍🏫 Projeto Educacional
 
